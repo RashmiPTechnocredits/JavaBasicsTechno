@@ -1,0 +1,2 @@
+# JavaBasicsTechno
+Created for practice
